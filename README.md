@@ -21,7 +21,14 @@ Skills probadas y verficiadas que funcionan correctamente.
 | `setup-pre-commit` | Configura hooks de Git automáticamente |
 
 ### 📁 Personales
-Skills creadas para proyectos de IA y Jarvis. - *Proximamente*
+Skills creadas por mí para proyectos de IA y Jarvis.
+
+| Skill | Descripción |
+|---|---|
+| `prompt-engineer` | Diseña y mejora prompts para modelos de IA |
+| `ai-api-integrator` | Integra APIs de OpenAI, Anthropic o Gemini |
+| `agent-builder` | Crea agentes autónomos que ejecutan tareas |
+| `jarvis-memory` | Gestiona memoria persistente para Jarvis |
 
 ## Autor
 
