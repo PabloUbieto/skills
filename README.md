@@ -19,6 +19,8 @@ Skills probadas y verficiadas que funcionan correctamente.
 | `git-guardrails-claude-code` | Bloquea comandos git peligrosos |
 | `write-a-skill` | Crea nuevas skills con estructura correcta |
 | `setup-pre-commit` | Configura hooks de Git automáticamente |
+| `improve-codebase-architecture` | Mejora la arquitectura de proyectos existentes |
+| `request-refactor-plan` | Crea un plan de refactorización con commits pequeños |
 
 ### 📁 Personales
 Skills creadas por mí para proyectos de IA y Jarvis.
