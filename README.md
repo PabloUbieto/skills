@@ -1,4 +1,4 @@
-# skills
+# Skills
 Mi colección personal de skills para Claude Code
 
 ## ¿Qué son las skills?
